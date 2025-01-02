@@ -4,19 +4,97 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="275c02de-02c6-4124-a6b1-4e57ec5c5139" name="Changes" comment="All files added till 14th-Oct-24">
-      <change afterPath="$PROJECT_DIR$/src/Dec/ex_18-12-2024/Lab001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_14th_Oct_2024/Lab0040.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_14th_Oct_2024/Lab0041.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_14th_Oct_2024/Lab0042.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_14th_Oct_2024/Lab0043.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_20th_Oct_2024/Lab0045.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_20th_Oct_2024/Lab0046.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_20th_Oct_2024/Lab0047.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_20th_Oct_2024/Lab0048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_20th_Oct_2024/Lab0049.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_20th_Oct_2024/Lab0050.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_20th_Oct_2024/Lab0051.py" afterDir="false" />
+    <list default="true" id="275c02de-02c6-4124-a6b1-4e57ec5c5139" name="Changes" comment="All files added till 17th-Dec-24">
+      <change afterPath="$PROJECT_DIR$/src/Dec/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_18-12-2024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_19-12-2024/Lab002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_19-12-2024/Lab003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_19-12-2024/Lab004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_19-12-2024/Lab005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_19-12-2024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_21-12-2024/Lab006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_21-12-2024/Lab007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_21-12-2024/Lab008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_21-12-2024/Lab009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_21-12-2024/Lab010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_21-12-2024/Lab011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_21-12-2024/Lab012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_21-12-2024/Lab013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_21-12-2024/Lab014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_21-12-2024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_22-12-2024/Lab015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_22-12-2024/Lab016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_22-12-2024/Lab017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_22-12-2024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_23-12-2024/Lab019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_23-12-2024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_24-12-2024/Lab020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_24-12-2024/Lab021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_24-12-2024/Lab022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_24-12-2024/Lab023.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_24-12-2024/Lab024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_24-12-2024/Lab025.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_24-12-2024/Lab026.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_24-12-2024/Lab027.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_24-12-2024/Lab028.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_24-12-2024/Lab029.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_24-12-2024/Lab030.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_24-12-2024/Lab031.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_24-12-2024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_25-12-2024/Lab032.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_25-12-2024/Lab033.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_25-12-2024/Lab034.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_25-12-2024/Lab035.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_25-12-2024/Lab036.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_25-12-2024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_26-12-2024/Lab037.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_26-12-2024/Lab038.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_26-12-2024/Lab039.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_26-12-2024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_27-12-2024/Lab040.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_27-12-2024/Lab041.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_27-12-2024/Lab042.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_27-12-2024/Lab043.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_27-12-2024/Lab044.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_27-12-2024/Lab045.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_27-12-2024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_28-12-2024/Lab046.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_28-12-2024/Lab047.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_28-12-2024/Lab048.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_28-12-2024/Lab049.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_28-12-2024/Lab050.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_28-12-2024/Lab051.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_28-12-2024/Lab052.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_28-12-2024/Lab053.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_28-12-2024/Lab054.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_28-12-2024/Lab055.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_28-12-2024/Lab056.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_28-12-2024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_29-12-2024/Lab057.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_29-12-2024/Lab058.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_29-12-2024/Lab059.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_29-12-2024/Lab060.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_29-12-2024/Lab061.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_29-12-2024/Lab062.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_29-12-2024/Lab063.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_29-12-2024/Lab064.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_29-12-2024/Lab065.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_29-12-2024/Lab066.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_29-12-2024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_31-12-2024/Lab067.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_31-12-2024/Lab068.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_31-12-2024/Lab069.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_31-12-2024/Lab070.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_31-12-2024/Lab071.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dec/ex_31-12-2024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/Task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/Task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/Task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/Task5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/Task6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork/Task7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,61 +140,123 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0025.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0026.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0028.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab003.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0030.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0031.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0032.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0033.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0034.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0035.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0036.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0037.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0038.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0039.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0040.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0041.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0042.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0043.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0045.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0046.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0047.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0048.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0049.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0050.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0051.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab006.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab007.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab008.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab009.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab010.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab011.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab012.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab013.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab014.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab015.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab016.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab017.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab018.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab019.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab020.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab021.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab022.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab023.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Lab001.executor": "Run",
+    "Python.Lab002.executor": "Run",
+    "Python.Lab0025.executor": "Run",
+    "Python.Lab0026.executor": "Run",
+    "Python.Lab0028.executor": "Run",
+    "Python.Lab003.executor": "Run",
+    "Python.Lab0030.executor": "Run",
+    "Python.Lab0031.executor": "Run",
+    "Python.Lab0032.executor": "Run",
+    "Python.Lab0033.executor": "Run",
+    "Python.Lab0034.executor": "Run",
+    "Python.Lab0035.executor": "Run",
+    "Python.Lab0036.executor": "Run",
+    "Python.Lab0037.executor": "Run",
+    "Python.Lab0038.executor": "Run",
+    "Python.Lab0039.executor": "Run",
+    "Python.Lab004.executor": "Run",
+    "Python.Lab0040.executor": "Run",
+    "Python.Lab0041.executor": "Run",
+    "Python.Lab0042.executor": "Run",
+    "Python.Lab0043.executor": "Run",
+    "Python.Lab0045.executor": "Run",
+    "Python.Lab0046.executor": "Run",
+    "Python.Lab0047.executor": "Run",
+    "Python.Lab0048.executor": "Run",
+    "Python.Lab0049.executor": "Run",
+    "Python.Lab005.executor": "Run",
+    "Python.Lab0050.executor": "Run",
+    "Python.Lab0051.executor": "Run",
+    "Python.Lab006.executor": "Run",
+    "Python.Lab007.executor": "Run",
+    "Python.Lab008.executor": "Run",
+    "Python.Lab009.executor": "Run",
+    "Python.Lab010.executor": "Run",
+    "Python.Lab011.executor": "Run",
+    "Python.Lab012.executor": "Run",
+    "Python.Lab013.executor": "Run",
+    "Python.Lab014.executor": "Run",
+    "Python.Lab015.executor": "Run",
+    "Python.Lab016.executor": "Run",
+    "Python.Lab017.executor": "Run",
+    "Python.Lab018.executor": "Run",
+    "Python.Lab019.executor": "Run",
+    "Python.Lab020.executor": "Run",
+    "Python.Lab021.executor": "Run",
+    "Python.Lab022.executor": "Run",
+    "Python.Lab023.executor": "Run",
+    "Python.Lab024.executor": "Run",
+    "Python.Lab025.executor": "Run",
+    "Python.Lab026.executor": "Run",
+    "Python.Lab027.executor": "Run",
+    "Python.Lab028.executor": "Run",
+    "Python.Lab029.executor": "Run",
+    "Python.Lab030.executor": "Run",
+    "Python.Lab031.executor": "Run",
+    "Python.Lab032.executor": "Run",
+    "Python.Lab033.executor": "Run",
+    "Python.Lab034.executor": "Run",
+    "Python.Lab035.executor": "Run",
+    "Python.Lab036.executor": "Run",
+    "Python.Lab037.executor": "Run",
+    "Python.Lab038.executor": "Run",
+    "Python.Lab039.executor": "Run",
+    "Python.Lab040.executor": "Run",
+    "Python.Lab041.executor": "Run",
+    "Python.Lab042.executor": "Run",
+    "Python.Lab043.executor": "Run",
+    "Python.Lab044.executor": "Run",
+    "Python.Lab045.executor": "Run",
+    "Python.Lab046.executor": "Run",
+    "Python.Lab047.executor": "Run",
+    "Python.Lab048.executor": "Run",
+    "Python.Lab049.executor": "Run",
+    "Python.Lab050.executor": "Run",
+    "Python.Lab051.executor": "Run",
+    "Python.Lab052.executor": "Run",
+    "Python.Lab053.executor": "Run",
+    "Python.Lab054.executor": "Run",
+    "Python.Lab056.executor": "Run",
+    "Python.Lab057.executor": "Run",
+    "Python.Lab058.executor": "Run",
+    "Python.Lab059.executor": "Run",
+    "Python.Lab060.executor": "Run",
+    "Python.Lab061.executor": "Run",
+    "Python.Lab062.executor": "Run",
+    "Python.Lab063.executor": "Run",
+    "Python.Lab064.executor": "Run",
+    "Python.Lab065.executor": "Run",
+    "Python.Lab066.executor": "Run",
+    "Python.Lab067.executor": "Run",
+    "Python.Lab068.executor": "Run",
+    "Python.Lab069.executor": "Run",
+    "Python.Lab070.executor": "Run",
+    "Python.Lab071.executor": "Run",
+    "Python.Task1.executor": "Run",
+    "Python.Task2.executor": "Run",
+    "Python.Task3.executor": "Run",
+    "Python.Task4.executor": "Run",
+    "Python.Task5.executor": "Run",
+    "Python.Task6.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/neetusingh/PycharmProjects/pyATB4xLearning/src/Dec/ex_31-12-2024"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Dec/ex_31-12-2024" />
+      <recent name="$PROJECT_DIR$/src/Dec/ex_28-12-2024" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Dec" />
+      <recent name="$PROJECT_DIR$/src/Dec/ex_29-12-2024" />
+      <recent name="$PROJECT_DIR$/src/Dec/ex_28-12-2024" />
+      <recent name="$PROJECT_DIR$/src/Dec/ex_21-12-2024" />
       <recent name="$PROJECT_DIR$/src/Aug" />
     </key>
   </component>
@@ -168,13 +308,22 @@
       <option name="project" value="LOCAL" />
       <updated>1728933388887</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="All files added till 17th-Dec-24">
+      <option name="closed" value="true" />
+      <created>1734463355424</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1734463355424</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab002 Added" />
     <MESSAGE value="All files added till 9th sep-24" />
     <MESSAGE value="All files added till 14th-Oct-24" />
-    <option name="LAST_COMMIT_MESSAGE" value="All files added till 14th-Oct-24" />
+    <MESSAGE value="All files added till 17th-Dec-24" />
+    <option name="LAST_COMMIT_MESSAGE" value="All files added till 17th-Dec-24" />
   </component>
 </project>
