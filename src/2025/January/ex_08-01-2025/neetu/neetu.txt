@@ -1,0 +1,7 @@
+Hi Neetu,
+
+Validating the read function
+
+If I want to read the file neetu.txt
+
+If file is present in different directory - neetu
